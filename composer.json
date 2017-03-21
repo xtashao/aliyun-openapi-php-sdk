@@ -20,6 +20,7 @@
     "psr-0": {
       "Skywit\\aliyun-openapi-php-sdk\\": "src/"
     }
-  }
+  },
+  "minimum-stability":"stable"
 
 }
