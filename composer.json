@@ -7,10 +7,10 @@
   "authors": [
     {
       "name": "xtashao",
-      "email": "arlex.xie@gmail.com"
+      "email": "632666619@qq.com"
     }
   ],
-  "minimum-stability": "dev",
+  "minimum-stability": "1.0.0",
   "require": {
     "php": ">5.3"
   },
