@@ -10,6 +10,7 @@
       "email": "632666619@qq.com"
     }
   ],
+  "minimum-stability": "dev",
   "require": {
     "php": ">5.3"
   },
