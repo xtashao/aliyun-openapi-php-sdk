@@ -1,12 +1,12 @@
 {
-  "name": "skywit/aliyun-openapi-php-sdk",
+  "name": "xtashao/aliyun-openapi-php-sdk",
   "type": "library",
   "description": "aliyun-openapi-php-sdk",
   "keywords": ["aliyun-openapi-php-sdk"],
   "license": "MIT",
   "authors": [
     {
-      "name": "Skywit",
+      "name": "xtashao",
       "email": "arlex.xie@gmail.com"
     }
   ],
@@ -19,7 +19,7 @@
       "src/"
     ],
     "psr-0": {
-      "Skywit\\aliyun-openapi-php-sdk\\": "src/"
+      "xtashao\\aliyun-openapi-php-sdk\\": "src/"
     }
   }
 }
